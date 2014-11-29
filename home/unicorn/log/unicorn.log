@@ -1,0 +1,5 @@
+I, [2014-11-29T00:13:56.040898 #909]  INFO -- : worker=3 ready
+I, [2014-11-29T00:13:56.042317 #903]  INFO -- : worker=1 ready
+I, [2014-11-29T00:13:56.043702 #906]  INFO -- : worker=2 ready
+I, [2014-11-29T00:13:56.046680 #901]  INFO -- : worker=0 ready
+D, [2014-11-29T00:14:49.655250 #898] DEBUG -- : waiting 31.0s after suspend/hibernation
